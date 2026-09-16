@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "xtu-nic": {
+      "type": "http",
+      "url": "https://xtu-nic-mcp.<你的账号>.workers.dev/417e7515-b174-45ed-89c1-3838b6100cd7/mcp"
+    }
+  }
+}
