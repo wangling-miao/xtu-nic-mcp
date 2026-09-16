@@ -1,0 +1,6 @@
+name = "xtu-nic-mcp"
+main = "src/index.js"
+compatibility_date = "2025-10-01"
+
+[vars]
+ACCESS_UUID = "417e7515-b174-45ed-89c1-3838b6100cd7"
